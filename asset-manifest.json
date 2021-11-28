@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/as-quickbase4/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/as-quickbase4/static/js/main.5b25242a.chunk.js",
+    "main.js.map": "/as-quickbase4/static/js/main.5b25242a.chunk.js.map",
+    "runtime-main.js": "/as-quickbase4/static/js/runtime-main.d7f8b85e.js",
+    "runtime-main.js.map": "/as-quickbase4/static/js/runtime-main.d7f8b85e.js.map",
+    "static/js/2.5c34b862.chunk.js": "/as-quickbase4/static/js/2.5c34b862.chunk.js",
+    "static/js/2.5c34b862.chunk.js.map": "/as-quickbase4/static/js/2.5c34b862.chunk.js.map",
+    "static/js/3.ebd62da1.chunk.js": "/as-quickbase4/static/js/3.ebd62da1.chunk.js",
+    "static/js/3.ebd62da1.chunk.js.map": "/as-quickbase4/static/js/3.ebd62da1.chunk.js.map",
+    "index.html": "/as-quickbase4/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/as-quickbase4/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5c34b862.chunk.js.LICENSE.txt": "/as-quickbase4/static/js/2.5c34b862.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/as-quickbase4/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f8b85e.js",
+    "static/js/2.5c34b862.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5b25242a.chunk.js"
+  ]
+}
